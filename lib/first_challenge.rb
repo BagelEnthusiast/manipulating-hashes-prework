@@ -27,9 +27,9 @@ def first_challenge
   
   binding.pry
 
-
+puts contacts.values
   #remember to return your newly altered contacts hash!
   contacts
 end
 
-puts contacts.values
+puts first_challenge()
