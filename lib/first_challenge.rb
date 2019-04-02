@@ -32,3 +32,4 @@ def first_challenge
   contacts
 end
 
+puts contacts.values
